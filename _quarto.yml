@@ -1,3 +1,33 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "InClass_Exercise"
+  site-url: "https://XiayuanshanGao_test/quarto-website-template" 
+  repo-actions: [source]
+
+
+  sidebar:
+    pinned: true      
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+          - inclass.qmd
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: custom.scss
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+
+

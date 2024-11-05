@@ -235,7 +235,7 @@
     "href": "exercise.html#objectives",
     "title": "Exercise for class",
     "section": "Objectives",
-    "text": "Objectives\n\nuse this template to create your presentation\nadd the following elements:\n\na title, subtitle, authors\nan introduction slide\na figure of your choosing\n\n\n\nknitr::include_graphics(\"images/pa_population_density_map.png\")"
+    "text": "Objectives\n\nuse this template to create your presentation\nadd the following elements:\n\na title, subtitle, authors\nan introduction slide\na figure of your choosing\n\n\nknitr::include_graphics(\"images/pa_population_density_map.png\")"
   },
   {
     "objectID": "exercise.html#objectives-1",
@@ -418,5 +418,35 @@
     "title": "Introduction to Quarto",
     "section": ".ipynb",
     "text": ".ipynb\n\njupyter notebook"
+  },
+  {
+    "objectID": "inclass.html#quarto",
+    "href": "inclass.html#quarto",
+    "title": "1105 InClass Exercise",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/.",
+    "crumbs": [
+      "1105 InClass Exercise"
+    ]
+  },
+  {
+    "objectID": "inclass.html#bullets",
+    "href": "inclass.html#bullets",
+    "title": "1105 InClass Exercise",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code",
+    "crumbs": [
+      "1105 InClass Exercise"
+    ]
+  },
+  {
+    "objectID": "inclass.html#code",
+    "href": "inclass.html#code",
+    "title": "1105 InClass Exercise",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2",
+    "crumbs": [
+      "1105 InClass Exercise"
+    ]
   }
 ]
